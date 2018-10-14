@@ -1,0 +1,12 @@
+Avg inc. for females 28646.32...
+Avg inc. for males 27225.83...
+
+Number of Females with Mortgage and Savings account: 71
+
+Rural region males with car and 1 child: 9
+Inner_City region males with car and 1 child: 15
+Town region males with car and 1 child: 7
+Suburban region males with car and 1 child: 3
+
+Cur dt=2018/04/07 21:49:34
+Programmed by Mohmedamir Arther
